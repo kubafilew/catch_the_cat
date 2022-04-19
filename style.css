@@ -1,0 +1,23 @@
+body 
+{
+    margin: 0 auto;
+	
+}
+button{
+  border: dashed 1px black;
+  color: orange;
+  background-color: transparent;
+  cursor: pointer;
+  font-family: 'Bangers', cursive;
+  font-weight: 400;
+  font-size: 40px;
+  width: 100%;
+  position: fixed;
+
+
+
+}
+img{
+    margin-top:50px;
+    margin-left: 5px;
+    }
